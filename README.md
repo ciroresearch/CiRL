@@ -13,5 +13,5 @@ Note that the files named _envName_createAndTestEnvironment.ipynb_, with "envNam
 
 Further details are provided in each file.
 
-This repository largely builds on the Gymnasium Robotics (https://robotics.farama.org/index.html) and the Stable-Baselines3 (https://stable-baselines3.readthedocs.io/en/master/index.html) libraries.
+This repository largely builds on the Gymnasium-Robotics (https://robotics.farama.org/index.html) and the Stable-Baselines3 (https://stable-baselines3.readthedocs.io/en/master/index.html) libraries.
 
