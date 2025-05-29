@@ -3,7 +3,9 @@
 This repository contains the source code of the paper: Zocco, F., Corti, A. and Malvezzi, M., 2025. CiRL: Open-source environments for reinforcement learning in circular economy and 
 net zero. arXiv preprint arXiv:2505.21536. 
 
-The repository is divided into folders; each folder refers to a thermodynamic compartment and contains the Python notebooks with the training results reported in the above-mentioned paper.
+The repository is divided into folders; each folder refers to a thermodynamic compartment and contains the Python notebooks with the training results reported in the above-mentioned paper. The environments are summarized in the table below taken from the paper.
+
+![EnvSummary](https://github.com/user-attachments/assets/647bd32b-ce68-4696-b3b6-a50f2ce8967b)
 
 GitHub may not be able to render the .ipynb files when you click on them. To visualize the .ipynb without issues, download and upload them to __Google Colaboratory__.
 
