@@ -5,7 +5,7 @@ net zero. arXiv preprint arXiv:2505.21536.
 
 The repository is divided into folders; each folder refers to a thermodynamic compartment and contains the Python notebooks with the training results reported in the above-mentioned paper. The environments are summarized in the table below taken from the paper.
 
-![EnvSummary](https://github.com/user-attachments/assets/8004f60b-2f09-4aa9-92f1-5c0e02c47671)
+<img width="1491" height="637" alt="EnvSummary" src="https://github.com/user-attachments/assets/62141b5e-ab6c-4469-b19d-989cfaef2801" />
 
 IMPORTANT: GitHub may not be able to render the .ipynb files when you click on them. To visualize the .ipynb files without issues, download and upload them to __Google Colaboratory__. To download the repository, click on "Code" (the green button on the top-right) and scroll-down to find "Download ZIP".
 
